@@ -1,0 +1,46 @@
+
+
+h1{
+   text-align: center;
+   color: rgb(219, 152, 221);
+   font-family: 'Comfortaa', cursive;
+ }
+
+h2{
+  font-family: 'Comfortaa', cursive;
+}
+
+body {
+  background-color: rgba(245, 167, 255, 0.36);
+}
+
+ul {
+  background-color: rgb(227, 204, 53);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: 'Comfortaa', cursive;
+}
+
+li{
+  display: inline-block;
+}
+li a {
+  text-decoration: none;
+  color: white;
+  width: 100px;
+  display: block;
+  padding: 15px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+img {
+  border-radius: 50%;
+}
